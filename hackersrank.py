@@ -11,3 +11,6 @@ def TotalCost():
     Total_cost = meal_cost + tip + tax
     result = round(Total_cost)
     print(result)
+
+TotalCost()
+
